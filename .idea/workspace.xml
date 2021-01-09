@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbe21d70-09ce-4eff-9886-53d6affddcf4" name="Default Changelist" comment="all lab added">
+      <change afterPath="$PROJECT_DIR$/../5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../51.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/style/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/style/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/ietf-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/irtf-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/iso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/isoc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/rfc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab777/lab7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/.idea/rubezh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/1-aqua/88.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/1-aqua/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/1-aqua/battery-empty-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/1-aqua/battery-full-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/1-aqua/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/1-aqua/description.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/1-aqua/footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/1-aqua/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/1-aqua/screen1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/1-aqua/screen2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/1-aqua/screen3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/1-aqua/screen4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rubezh/reg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лаба.веб.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лаба3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лаба3/style/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лаба3/style/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лаба3/style/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mcTiQ6ZnotxB6IlUIHlc9VSqvJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\aposd\OneDrive\Рабочий стол\Учеба\Веб-технологии\lab11\style4" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbe21d70-09ce-4eff-9886-53d6affddcf4" name="Default Changelist" comment="" />
+      <created>1609792005761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609792005761</updated>
+      <workItem from="1609792006823" duration="8310000" />
+      <workItem from="1610012343021" duration="4276000" />
+      <workItem from="1610114640459" duration="28000" />
+      <workItem from="1610143355742" duration="6815000" />
+    </task>
+    <task id="LOCAL-00001" summary="all lab added">
+      <created>1610150181855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610150181855</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="all lab added" />
+    <option name="LAST_COMMIT_MESSAGE" value="all lab added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610149901714">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="451" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.920@0.0.1440.920" timestamp="1610149901714" />
+    <state x="501" y="216" key="FileChooserDialogImpl" timestamp="1610150228800">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="216" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1610150228800" />
+    <state x="313" y="181" key="Vcs.Push.Dialog.v2" timestamp="1610150187295">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="181" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1610150187295" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1610149704312">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1610149704312" />
+  </component>
+</project>
